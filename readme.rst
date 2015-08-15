@@ -14,9 +14,12 @@ for a given task.
 Release Information
 *******************
 
-This repo contains in-development code for future releases. To download the
-latest stable release please visit the `CodeIgniter Downloads
-<http://www.codeigniter.com/download>`_ page.
+Repo ini adalah proyek keroyokan untuk membuat sebuah erp-sekolah
+Teamnya adalah :
+Dedy
+Farham
+Agi
+Ryan
 
 **************************
 Changelog and New Features

@@ -12,10 +12,10 @@ Release Information
 Repo ini adalah proyek keroyokan untuk membuat sebuah erp-sekolah
 Teamnya adalah :
 
--  `Dedy`_
--  `Farham`_
--  `Agi`_
--  `Ryan`_
+-  Dedy
+-  Farham
+-  Agi
+-  Ryan
 
 **************************
 Changelog and New Features
